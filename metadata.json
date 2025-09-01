@@ -1,0 +1,5 @@
+{
+  "name": "CodePilot: AI Coder",
+  "description": "An AI-powered assistant for developers to chat about code, build new features from prompts, and debug existing code. It provides a seamless interface to leverage generative AI for daily coding tasks.",
+  "requestFramePermissions": []
+}
