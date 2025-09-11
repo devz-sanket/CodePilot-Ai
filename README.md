@@ -18,3 +18,4 @@ View your app in AI Studio: https://ai.studio/apps/drive/171b6HU2bXyqEcSGv9Rt47j
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+   4. npm install react-router-dom
